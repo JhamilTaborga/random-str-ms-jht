@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-jht",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:JhamilTaborga/random-str-msg-jht.git"
+  },
+  "keywords": [],
+  "author": "Jhamil Taborga <jhamiltaborga@gmail.com>",
+  "license": "MSI",
+  "homepage": "https://github.com/JhamilTaborga/random-str-msg-jht#readme",
+  "bin": {
+    "random-str-msg-jht": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
